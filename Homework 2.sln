@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34407.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "middle elements", "Homework 2\middle elements.csproj", "{A2D196ED-103F-407F-A441-0DB0858B8B6C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Max element function", "Max element function\Max element function.csproj", "{90BFEA81-BC39-4CBE-88EE-0FE3464086A1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A2D196ED-103F-407F-A441-0DB0858B8B6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2D196ED-103F-407F-A441-0DB0858B8B6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2D196ED-103F-407F-A441-0DB0858B8B6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2D196ED-103F-407F-A441-0DB0858B8B6C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{90BFEA81-BC39-4CBE-88EE-0FE3464086A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90BFEA81-BC39-4CBE-88EE-0FE3464086A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90BFEA81-BC39-4CBE-88EE-0FE3464086A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90BFEA81-BC39-4CBE-88EE-0FE3464086A1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {25832F3A-B593-448E-B36C-61C03EF97390}
+	EndGlobalSection
+EndGlobal
